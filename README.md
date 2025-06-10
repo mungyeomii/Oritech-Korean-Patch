@@ -1,2 +1,4 @@
-# Oritech-Korean-Patch
-🇰🇷 Oritech, 이제 한국어로 즐기세요! 🇰🇷
+### Oritech Korean Patch
+**🇰🇷 Oritech, 이제 한국어로 즐기세요! 🇰🇷**
+기계와 기술이 가득한 Oritech 모드를 한국어로 완벽하게 번역했습니다.
+더 이상 낯선 영어 없이 편하게 모드의 모든 기능을 이해하고 사용할 수 있어요!
